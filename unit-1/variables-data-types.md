@@ -104,3 +104,14 @@ fun();
 console.log(globalVar); // This is a global variable
 console.log(localVar); // Error localVar is not defined
 ```
+
+### Template string
+
+You can concatenate strings with variables using **+** operator. But exists an easier way to do it using tempalte string. Here is the syntax:
+
+```javascript
+const world = "world";
+const hello = "hello";
+
+console.log(`This is hidden message: ${hello} ${world}`);
+```

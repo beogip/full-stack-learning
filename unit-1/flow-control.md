@@ -27,7 +27,7 @@ if (condition)
 statement2
 ```
 
-Statement1 will run only if the condition is true, statement2 will always run.
+Statement1 will run only if the condition is true, statement2 will always run. Keep in mind that this way to declare is only afecting the next line after the if.
 
 ### if-else
 

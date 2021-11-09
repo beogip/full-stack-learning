@@ -59,7 +59,7 @@ function parentFunction() {
 
   HelloWorld();
 }
-parentFunction(); // Hello World
+new parentFunction(); // Hello World
 ```
 
 ## Best practices
