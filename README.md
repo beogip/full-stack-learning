@@ -8,8 +8,8 @@ A repository to learn how to be a FullStack developer
 
 - [Variables and data-types](./unit-1/variables-data-types.md)
 - [Flow control structures](./unit-1/flow-control.md)
-- Data structures
-- Functions
+- [Data structures](./unit-1/data-structures.md)
+- [Functions](./unit-1/functions.md)
 
 ### Unit 2
 

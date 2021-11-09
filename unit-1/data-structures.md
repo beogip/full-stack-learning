@@ -1,4 +1,4 @@
-# Data structures
+# Basic Data structures
 
 JavaScript has primitive and non-primitive data structures. Primitive data structures and data types are native to the programming language. These include boolean, null, number, string, etc.
 
