@@ -8,6 +8,8 @@ Exists several structures to conditionally run code in runtime.
 - [ternary](#Ternary)
 - [switch](#switch)
 - [for](#for)
+- [for-in](#for-in)
+- [for-of](#for-of)
 
 ### if
 
