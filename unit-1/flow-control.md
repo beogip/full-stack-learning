@@ -7,6 +7,7 @@ Exists several structures to conditionally run code in runtime.
 - [if-else-if](#if-else-if)
 - [ternary](#Ternary)
 - [switch](#switch)
+- [for](#for)
 
 ### if
 
@@ -102,4 +103,48 @@ switch (expression)
         // any case
         statementDefault;
 }
+```
+
+### for
+
+The following for statement starts by declaring the variable i and initializing it to 0. It checks that i is less than nine, performs the two succeeding statements, and increments i by 1 after each pass through the loop.
+
+```javascript
+for (let i = 0; i < 9; i++) {
+  console.log(i);
+  // more statements
+}
+```
+
+### for-in
+
+The for...in statement iterates over all enumerable properties of an object that are keyed by strings, including inherited enumerable properties.
+
+```javascript
+const object = { a: 1, b: 2, c: 3 };
+
+for (const property in object) {
+  console.log(`${property}: ${object[property]}`);
+}
+
+// expected output:
+// "a: 1"
+// "b: 2"
+// "c: 3"
+```
+
+### for-of
+
+The for...of statement creates a loop iterating over iterable objects, including: built-in String, Array, array-like objects.
+
+```javascript
+const array1 = ["a", "b", "c"];
+
+for (const element of array1) {
+  console.log(element);
+}
+
+// expected output: "a"
+// expected output: "b"
+// expected output: "c"
 ```

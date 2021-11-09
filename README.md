@@ -10,6 +10,7 @@ A repository to learn how to be a FullStack developer
 - [Flow control structures](./unit-1/flow-control.md)
 - [Data structures](./unit-1/data-structures.md)
 - [Functions](./unit-1/functions.md)
+- [Tests](./unit-1/test.md)
 
 ### Unit 2
 
