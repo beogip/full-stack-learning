@@ -14,6 +14,5 @@ A repository to learn how to be a FullStack developer
 
 ### Unit 2
 
-- Git
-- Github
-- Linux basic commands
+- [Git](./unit-2/git.md)
+- Unix terminal
